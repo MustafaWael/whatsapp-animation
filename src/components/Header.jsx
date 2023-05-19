@@ -1,5 +1,5 @@
 import { ReactComponent as CameraIcon } from "../assets/camera.svg";
-import { ReactComponent as Search } from "../assets/Search.svg";
+import { ReactComponent as Search } from "../assets/search.svg";
 import { ReactComponent as Dots } from "../assets/dots.svg";
 
 const Header = () => {
